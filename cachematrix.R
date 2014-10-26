@@ -1,4 +1,4 @@
-## Below are two functions used to create a special object that stors a matrix 
+## Below are two functions used to create a special object that stores a matrix 
 # and cache's its inverse.
 
 ##  Function makeCacheMatrix creates a list of 4 functions that: 
