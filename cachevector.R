@@ -1,3 +1,6 @@
+## Below are two functions that are used to create a special object 
+# that stores a numeric vector and cache's its mean.
+
 makeVector <- function(x = numeric()) {
       m <- NULL
       set <- function(y) {
